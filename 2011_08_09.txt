@@ -3,8 +3,13 @@
 # Bugs Noticed
 
  * Empty links such as <a href="foo"></a> make WWW::Mechanize throw annoying warnings
+ * Math::GSL can't deal with arrays of doubles
 
 # Frustrating
 
  * Storable.pm can't serialize filehandles
  * Mozilla Developer Network emails passwords in plaintext.
+
+# Awesome
+
+ * Github allows repos to begin with a dot. These guys rock.
