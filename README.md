@@ -8,3 +8,7 @@ They are tangentially inspired by [John Carmack's .plan archive](http://www.team
 Each .plan has some kind of possibly witty "title for the day", along with a few sections that I make up as I go along.
 
 My .plan files are in Markdown, because this ain't the 90's anymore.
+
+If you want to try this at home, I have a small utilitly called
+[plan](https://github.com/leto/Util/blob/master/bin/plan) which maximizes
+laziness and opens todays plan file automagically.
